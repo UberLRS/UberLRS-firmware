@@ -1,4 +1,6 @@
-UberLRS-firmware
-================
+UberLRS
+=======
 
-UberLRS-firmware
+ÜberLRS, a project for wireless drone control.
+
+Firmware repo.
